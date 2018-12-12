@@ -1,6 +1,6 @@
 # &#35; A Word Guess command-line game using constructors!
 ### This app is dedicated to the best actor in existence, Nicolas Cage &#160; <img src="https://img.icons8.com/color/48/000000/ghost.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/motorcycle.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/fire-element.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/poison.png">
-<img src="https://raw.githubusercontent.com/katbytes/Constructor-Game/master/assets/imgs/constructor-word-guess.gif" alt="demo">
+<img src="https://raw.githubusercontent.com/katbytes/Constructor-Game/master/assets/imgs/constructor-word-guess-normal-speed.gif" alt="demo">
 
 <b>Technologies used:</b>
 * <a href="https://nodejs.org/en/">Node.js</a><br>

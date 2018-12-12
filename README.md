@@ -18,5 +18,5 @@ In the world of OOP (Object-oriented programming), the previous ways of defining
 * Play another round<br>
 * Exit<br>
 5) `Hint!` For best results, try entering a letter representing a vowel sound, such as `a, e, i, o, u`.
-6) In conclusion,<br>
-&#160;&#160;&#160;<img src="https://www.thoughtco.com/thmb/agdQ2R-2cVCZVFdNMmjkvMEi0ho=/640x327/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nic-cage-hair-5798ced35f9b589aa97762e3.jpg">
+6) In conclusion,<br><br>
+&#160;&#160;<img src="https://www.thoughtco.com/thmb/agdQ2R-2cVCZVFdNMmjkvMEi0ho=/640x327/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nic-cage-hair-5798ced35f9b589aa97762e3.jpg">

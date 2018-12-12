@@ -1,5 +1,5 @@
-# &#35; A Word Guess Command-Line Game (w/ Constructors)
-### This app is dedicated to my favorite actor Nic Cage...&#160; <img src="https://img.icons8.com/color/48/000000/ghost.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/motorcycle.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/fire-element.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/poison.png">
+# &#35; A Word Guess command-line game using constructors...
+### This app is dedicated to the best actor of all Nic Cage &#160; <img src="https://img.icons8.com/color/48/000000/ghost.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/motorcycle.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/fire-element.png">&nbsp;<img src="https://img.icons8.com/color/48/000000/poison.png">
 <img src="https://raw.githubusercontent.com/katbytes/Constructor-Game/master/assets/imgs/constructor-word-guess.gif" alt="demo">
 The completed game should meet the following criteria:
 1. The completed game should be able to receive user input using the `inquirer` or `prompt` npm packages.

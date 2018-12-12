@@ -6,9 +6,9 @@
 * <a href="https://www.w3schools.com/whatis/whatis_js.asp">JavaScript</a><br>
 * <a href="https://www.npmjs.com/">npm packages</a>: `inquirer` and `prompt`<br><br>
 <b>How to Run The Nic Cage Constructor Game:</b><br>
-* Type <b>'node main.js'</b> Enter a singular alphabetic character and hit return.<br>
-* You have 9 total guesses.<br>
-* If you complete the game successfully, you will be prompted to either:<br>
-1. Play another round<br>
-2. Exit<br>
-* Hint!: Try entering a letter representing a vowel sound, such as a, e, i, o, u.
+Type <b>'node main.js'</b> Enter a singular alphabetic character and hit return.<br>
+You have 9 total guesses.<br>
+If you complete the game successfully, you will be prompted to either:<br>
+* Play another round<br>
+* Exit<br>
+Hint!: Try entering a letter representing a vowel sound, such as a, e, i, o, u.

@@ -8,15 +8,15 @@ In the world of OOP (Object-oriented programming), the previous ways of defining
 * <a href="https://nodejs.org/en/">Node.js</a><br>
 * <a href="https://www.w3schools.com/whatis/whatis_js.asp">JavaScript</a><br>
 * <a href="https://www.w3schools.com/js/js_object_constructors.asp">JavaScript Object Constructors</a><br>
-* <a href="https://www.npmjs.com/">npm packages</a>: `inquirer` and `prompt`
+* <a href="https://www.npmjs.com/">npm packages</a>: `inquirer`, `prompt`, `chalk`
 
 <b>How to Run Nic Cage 'Constructor' Word Guess Game:</b><br>
 1) Type `node main.js` into your terminal/bash window.
 2) Enter a singular alphabetic character and hit return.<br>
 3) You have `9` total guesses.<br>
-4) If you complete the game successfully, you will be prompted to either:<br>
+4) If you complete the game successfully, you will be prompted to key up &#8673; or down &#8675; to:<br>
 * Play another round<br>
 * Exit<br>
 5) `Hint!` For best results, try entering a letter representing a vowel sound, such as `a, e, i, o, u`.
 6) In conclusion,<br><br>
-&#160;&#160;<img src="https://raw.githubusercontent.com/katbytes/Constructor-Game/master/assets/imgs/nic-cage-meme.png" alt="cage meme">
+&#160;&#160;<img src="https://raw.githubusercontent.com/katbytes/Constructor-Game/master/assets/imgs/nic-cage-meme.png" alt="cage meme">.

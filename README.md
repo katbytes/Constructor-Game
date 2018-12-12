@@ -7,7 +7,7 @@
 * <a href="https://www.w3schools.com/whatis/whatis_js.asp">JavaScript</a><br>
 * <a href="https://www.npmjs.com/">npm packages</a>: `inquirer` and `prompt`<br><br>
 
-<b>How to Run The Nic Cage Constructor Game:</b><br>
+<b>How to Run Nic Cage 'Constructor' Word Guess Game:</b><br>
 1) Type `node main.js` 
 2) Enter a singular alphabetic character and hit return.<br>
 3) You have `9` total guesses.<br>

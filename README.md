@@ -8,10 +8,10 @@
 * <a href="https://www.npmjs.com/">npm packages</a>: `inquirer` and `prompt`<br><br>
 
 <b>How to Run The Nic Cage Constructor Game:</b><br>
-1) Type <b>'node main.js'</b> 
+1) Type `node main.js` 
 2) Enter a singular alphabetic character and hit return.<br>
 3) You have 9 total guesses.<br>
 4) If you complete the game successfully, you will be prompted to either:<br>
 * Play another round<br>
 * Exit<br>
-5) Hint!: Try entering a letter representing a vowel sound, such as a, e, i, o, u.
+5) `Hint!` Try entering a letter representing a vowel sound, such as `a, e, i, o, u`.

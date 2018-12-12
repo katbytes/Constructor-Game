@@ -14,7 +14,7 @@ In the world of OOP (Object-oriented programming), the previous ways of defining
 1) Type `node main.js` into your terminal/bash window.
 2) Enter a singular alphabetic character and hit return.<br>
 3) You have `9` total guesses.<br>
-4) If you complete the game successfully, you will be prompted to key up &#8673; or down &#8675; to:<br>
+4) If you complete the game successfully, you will be prompted to key down &#8675; or up &#8673; to:<br>
 * Play another round<br>
 * Exit<br>
 5) `Hint!` For best results, try entering a letter representing a vowel sound, such as `a, e, i, o, u`.
